@@ -11,10 +11,10 @@ Flex Table gives you the possibility to visualize any tabular data
 within Lovelace. Especially for overview views high data density
 can be easily realized, see Screenshots:
 
-![showing an example how appdaemon collected data might be visualized](https://github.com/daringer/image_dump/raw/master/todos_and_garbage_collection.png = 150x)
-![example showing **all** *power_consumption* entities including drain in one table](https://github.com/daringer/image_dump/raw/master/id_drain_power.png = 150x)
-![example showing **all** *power_consumption* entities including drain in one table](https://github.com/daringer/image_dump/raw/master/id_drain_power.png = 150x)
-![listing all zwave nodes and their respective last sent/received message (sorting needed :D)](https://github.com/daringer/image_dump/raw/master/zwave_last_msg_fromto.png = 150x)
+![showing an example how appdaemon collected data might be visualized](https://github.com/daringer/image_dump/raw/master/todos_and_garbage_collection.png.small.png)
+![example showing **all** *power_consumption* entities including drain in one table](https://github.com/daringer/image_dump/raw/master/id_drain_power.png.small.png)
+![example showing **all** *power_consumption* entities including drain in one table](https://github.com/daringer/image_dump/raw/master/id_drain_power.png.small.png)
+![listing all zwave nodes and their respective last sent/received message (sorting needed :D)](https://github.com/daringer/image_dump/raw/master/zwave_last_msg_fromto.png.small.png )
 
 **Options**
 
